@@ -39,8 +39,8 @@ def run_cmd(cmd, **kwargs):
 
 def configure_git_identity():
     """Set a valid author so git commit won't fail."""
-    run_cmd(["git", "config", "--global", "user.name",  "github-actions[bot]"])
-    run_cmd(["git", "config", "--global", "user.email", "41898282+github-actions[bot]@users.noreply.github.com"])
+    run_cmd(["git", "config", "--global", "user.name",  "kingsleyesisi"])
+    run_cmd(["git", "config", "--global", "user.email", "kingsleyesisi@outlook.com"])
 
 def setup_remote_with_token():
     """Reconfigure the 'origin' remote to include your PAT for authentication."""
