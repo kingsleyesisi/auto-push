@@ -1,3 +1,4 @@
+# .github/workflows/auto_run.yml
 name: Auto‑Run Script
 
 on:
@@ -6,22 +7,17 @@ on:
     - cron: '*/2 * * * *'
 
 permissions:
-  contents: write
+  contents: write    # give the built‑in GITHUB_TOKEN push rights
 
 jobs:
   run-script:
     runs-on: ubuntu-latest
-    env:
-      TOKEN: ${{ secrets.TOKEN }}        # <— inject your secret here
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v3
 
-      - name: Configure Git author
-        run: |
-          git config --global user.name "kingsleyesisi"
-          git config --global user.email "kingsleyesisi@outlook.com"
-
-      - uses: actions/setup-python@v4
+      - name: Setup Python
+        uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
