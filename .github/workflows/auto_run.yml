@@ -1,4 +1,5 @@
 # .github/workflows/auto_run.yml
+
 name: Auto‑Run Script
 
 on:
@@ -7,7 +8,7 @@ on:
     - cron: '*/2 * * * *'
 
 permissions:
-  contents: write    # give the built‑in GITHUB_TOKEN push rights
+  contents: write
 
 jobs:
   run-script:
@@ -23,3 +24,5 @@ jobs:
 
       - name: Run auto_push.py
         run: python auto_push.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
