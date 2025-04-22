@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 import os
 import time
 import subprocess
@@ -28,7 +29,6 @@ def counter():
     global COUNT
     COUNT += 1
     return COUNT
-
 # ─── END CONFIGURATION ────────────────────────────────────────────────────────
 
 def run_cmd(cmd, **kwargs):
