@@ -1,7 +1,7 @@
 name: Auto‑Run Script
 
 on:
-  workflow_dispatch:   # <-- lets you manually trigger the action
+  workflow_dispatch:
   schedule:
     - cron: '*/2 * * * *'
 
@@ -11,17 +11,19 @@ permissions:
 jobs:
   run-script:
     runs-on: ubuntu-latest
+    env:
+      TOKEN: ${{ secrets.TOKEN }}        # <— inject your secret here
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Setup Python
-        uses: actions/setup-python@v4
+      - name: Configure Git author
+        run: |
+          git config --global user.name "kingsleyesisi"
+          git config --global user.email "kingsleyesisi@outlook.com"
+
+      - uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
-      - name: Run auto_push script
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          python auto_push.py
+      - name: Run auto_push.py
+        run: python auto_push.py
