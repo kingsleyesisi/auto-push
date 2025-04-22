@@ -2,10 +2,10 @@ name: Auto‑Run Script
 
 # Only run on a schedule, not on pushes or PRs
 on:
+  workflow_dispatch:     # <- Manual trigger
   schedule:
-    # cron uses UTC; this says “every 2 minutes”
     - cron: '*/2 * * * *'
-
+    
 # Give the workflow permission to push commits
 permissions:
   contents: write
