@@ -9,7 +9,7 @@ REPO_DIR      = "."
 TARGET_FILE   = "file.txt"
 BRANCH        = "main"
 REMOTE        = "origin"
-COMMIT_PREFIX = "Automated update"
+COMMIT_PREFIX = "Automated update file"
 
 # ─── END CONFIGURATION ────────────────────────────────────────────────────────
 
@@ -21,14 +21,14 @@ def run_cmd(cmd, **kw):
     print(">"," ".join(cmd)); subprocess.run(cmd, check=True, **kw)
 
 def configure_git_identity():
-    run_cmd(["git", "config", "--global", "user.name",  "github-actions[bot]"])
-    run_cmd(["git", "config", "--global", "user.email", "41898282+github-actions[bot]@users.noreply.github.com"])
+    run_cmd(["git", "config", "--global", "user.name",  "github-actions[bot]"]) # Change to your user name
+    run_cmd(["git", "config", "--global", "user.email", "41898282+github-actions[bot]@users.noreply.github.com"]) # Change to your github email
 
 def setup_remote_with_token():
     token = os.getenv("GITHUB_TOKEN")
     if not token:
         raise RuntimeError("❌ GITHUB_TOKEN not set")
-    slug = "kingsleyesisi/auto-push"
+    slug = "kingsleyesisi/auto-push" # Change to your repostory path
     url  = f"https://x-access-token:{token}@github.com/{slug}.git"
     run_cmd(["git", "remote", "set-url", REMOTE, url])
 
@@ -56,7 +56,7 @@ def main_loop():
             print(f"[{datetime.now().isoformat()}] ✔️ Pushed update #{COUNT}")
         except Exception as e:
             print("⚠️", e)
-        time.sleep(2*60)
+        time.sleep(30*60)
 
 if __name__ == "__main__":
     main_loop()
