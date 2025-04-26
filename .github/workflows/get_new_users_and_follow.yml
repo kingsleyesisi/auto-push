@@ -47,9 +47,9 @@ jobs:
           python following_my_followers.py -m "${GITHUB_USERNAME}" -t "${GITHUB_TOKEN}"
 
       # Optional: Commit changes
-      # - name: Commit & Push
-      #   run: |
-      #     git config user.name "github-actions[bot]"
-      #     git config user.email "github-actions[bot]@users.noreply.github.com"
-      #     git add .
-      #     git diff --cached --quiet || ( git commit -m "Update following" && git push )
+      - name: Commit & Push
+        run: |
+          git config user.name "${GITHUB_USERNAME}"
+          git config user.email "${GITHUB_EMAIL}"
+          git add .
+          git diff --cached --quiet || ( git commit -m "Update following" && git push )
