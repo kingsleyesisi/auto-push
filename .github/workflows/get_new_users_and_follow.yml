@@ -42,7 +42,7 @@ jobs:
       - name: Create .env file (runner only)
         run: |
           echo "GITHUB_USERNAME=${GITHUB_USERNAME}" > .env
-          echo "MY_FOLLOWERS=${MY_FOLLOWERS}" >> .env
+          echo "GITHUB_TOKEN=${GITHUB_TOKEN}" >> .env
 
       - name: Get random users
         run: python get_random_users.py
