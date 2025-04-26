@@ -1,0 +1,58 @@
+name: Create Readme.md
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+  schedule:
+    - cron: '0 02 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    environment: AUTO_PUSH
+
+    permissions:
+      contents: write
+
+    env:
+      GITHUB_USERNAME: ${{ secrets.GITHUB_USERNAME }}
+      GITHUB_TOKEN: ${{ secrets.TOKEN }}
+      GITHUB_EMAIL:    ${{ secrets.GITHUB_EMAIL }}
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Create .env file (in-runner only)
+        run: |
+          echo "GITHUB_USERNAME=${GITHUB_USERNAME}" > .env
+          echo "GITHUB_TOKEN=${GITHUB_TOKEN}"   >> .env
+          echo "GITHUB_EMAIL=${GITHUB_EMAIL}"   >> .env
+
+
+      - name: Generate README.md
+        run: |
+          python create_readme.py
+
+      - name: Commit & Push updates
+        run: |
+          git config user.name "${GITHUB_USERNAME}"
+          git config user.email "${GITHUB_EMAIL}"
+          # only add your generated README, and Dataset.json
+          git add README.md Dataset.json
+          git diff --cached --quiet || ( \
+            git commit -m "Update follower list" && \
+            git push \
+          )
