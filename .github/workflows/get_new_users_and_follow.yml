@@ -33,6 +33,7 @@ jobs:
         run: |
           pip install --upgrade pip
           pip install -r requirements.txt
+
       - name: Create .env file (in-runner only)
         run: |
           echo "GITHUB_USERNAME=${GITHUB_USERNAME}" > .env
@@ -46,7 +47,10 @@ jobs:
         run: |
           python following_my_followers.py -m "${GITHUB_USERNAME}" -t "${GITHUB_TOKEN}"
 
-      # Optional: Commit changes
+      # Optional: Wait 2 minutes before pushing
+      - name: Sleep before pushing
+        run: sleep 120
+
       - name: Commit & Push
         run: |
           git config user.name "${GITHUB_USERNAME}"
