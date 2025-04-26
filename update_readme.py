@@ -15,6 +15,9 @@ load_dotenv()
 USERNAME = os.getenv('GITHUB_USERNAME') or os.getenv('USERNAME')
 TOKEN    = os.getenv('GITHUB_TOKEN') or os.getenv('TOKEN')
 
+print(f'username: {username}')
+print(f'token: {token}')
+
 if not USERNAME or not TOKEN:
     print("Error: Please set GITHUB_USERNAME and GITHUB_TOKEN environment variables.")
     sys.exit(1)

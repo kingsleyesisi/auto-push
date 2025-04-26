@@ -18,8 +18,16 @@ from base64 import b64encode
 from hexor import *
 
 # READ ENV VARIABLES
-username = os.environ.get("GITHUB_USERNAME")
-token = os.environ.get("MY_FOLLOWERS")
+from dotenv import load_dotenv
+
+
+load_dotenv()
+# Read configuration from environment variables
+username = os.getenv('GITHUB_USERNAME') or os.getenv('USERNAME')
+token    = os.getenv('GITHUB_TOKEN') or os.getenv('TOKEN')
+
+print(f'username: {username}')
+print(f'token: {token}')
 
 if not username or not token:
     print("Error: Missing GITHUB_USERNAME or MY_FOLLOWERS in environment.")
