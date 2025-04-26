@@ -12,8 +12,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 # Read configuration from environment variables
-USERNAME = os.getenv('GITHUB_USERNAME') or os.getenv('USERNAME')
-TOKEN    = os.getenv('GITHUB_TOKEN') or os.getenv('TOKEN')
+username = os.getenv('GITHUB_USERNAME') or os.getenv('USERNAME')
+token    = os.getenv('GITHUB_TOKEN') or os.getenv('TOKEN')
 
 print(f'username: {username}')
 print(f'token: {token}')

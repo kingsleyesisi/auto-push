@@ -34,7 +34,7 @@ jobs:
 
       - name: Run following_my_followers.py with arguments
         run: |
-          python following_my_followers.py -m "${GITHUB_USERNAME}" -t "${GITHUB_TOKEN}" -e "${GITHUB_EMAIL}" -o "${GITHUB_USERNAME}" -f "${GITHUB_USERNAME}" -d "my_followers.json" -r "README.md" -s "followers"
+          python following_my_followers.py -m "${GITHUB_USERNAME}" -t "${GITHUB_TOKEN}"
 
       # Optional: Commit changes
       # - name: Commit & Push
