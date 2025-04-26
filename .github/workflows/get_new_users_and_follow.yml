@@ -20,8 +20,9 @@ jobs:
       contents: write
 
     env:
-      GITHUB_USERNAME: ${{ github.actor }}
-      MY_FOLLOWERS:    ${{ secrets.TOKEN }}
+      GITHUB_USERNAME: ${{ secrets.USERNAME }}
+      GITHUB_TOKEN: ${{ secrets.TOKEN }}
+      GITHUB_EMAIL:    ${{ secrets.EMAIL }}
 
     steps:
       - name: Checkout repository
