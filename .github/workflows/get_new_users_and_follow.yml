@@ -1,0 +1,60 @@
+name: get new users and follow
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'  # Every hour at minute 0
+
+permissions:
+  contents: write   # needed if script pushes updates
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    environment: MY_FOLLOWERS
+
+    permissions:
+      contents: write
+
+    env:
+      GITHUB_USERNAME: ${{ github.actor }}
+      MY_FOLLOWERS:    ${{ secrets.TOKEN }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Upgrade pip
+        run: python -m pip install --upgrade pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Create .env file (runner only)
+        run: |
+          echo "GITHUB_USERNAME=${GITHUB_USERNAME}" > .env
+          echo "MY_FOLLOWERS=${MY_FOLLOWERS}" >> .env
+
+      - name: Get random users
+        run: python get_random_users.py
+
+      - name: Follow new users
+        run: python following_new_users.py
+
+      - name: Commit and push updates
+        run: |
+           git config --global user.name "$(git log -1 --pretty=format:'%an')"
+            git config --global user.email "$(git log -1 --pretty=format:'%ae')"
+            git add --all ":!*.env"
+            git diff --cached --quiet || ( \
+            git commit -m "Update MY FOLLOWERS list" && \
+           git push \
+            )
