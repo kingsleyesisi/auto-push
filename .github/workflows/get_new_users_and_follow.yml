@@ -1,4 +1,4 @@
-name: following my followers
+name: Follow random users
 
 on:
   push:
