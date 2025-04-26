@@ -1,17 +1,23 @@
 #!/usr/bin/env python3
 import os, time, subprocess
 from datetime import datetime
+from dotenv import load_dotenv
 
 # ─── CONFIGURATION ────────────────────────────────────────────────────────────
 
 # In Actions this is the repo root
 REPO_DIR      = "."         
-TARGET_FILE   = "file.txt"
+TARGET_FILE   = "log.txt"
 BRANCH        = "main"
 REMOTE        = "origin"
 COMMIT_PREFIX = "Automated update file"
 
 # ─── END CONFIGURATION ────────────────────────────────────────────────────────
+load_dotenv()  # Load environment variables from a .env file
+USERNAME = os.getenv('USERNAME')
+USEREMAIL = os.getenv('USERMAIL')
+if not USERNAME or not USEREMAIL:
+    raise RuntimeError("❌ USERNAME or USERMAIL not set")
 
 COUNT = 0
 def counter():
@@ -21,8 +27,8 @@ def run_cmd(cmd, **kw):
     print(">"," ".join(cmd)); subprocess.run(cmd, check=True, **kw)
 
 def configure_git_identity():
-    run_cmd(["git", "config", "--global", "user.name",  "kingsleyesisi"]) # Change to your user name
-    run_cmd(["git", "config", "--global", "user.email", "kingsleyesisi@outlook.com"]) # Change to your github email
+    run_cmd(["git", "config", "--global", "user.name",  USERNAME]) # Change to your user name
+    run_cmd(["git", "config", "--global", "user.email", USEREMAIL]) # Change to your github email
 
 def setup_remote_with_token():
     token = os.getenv("GITHUB_TOKEN")
@@ -56,7 +62,7 @@ def main_loop():
             print(f"[{datetime.now().isoformat()}] ✔️ Pushed update #{COUNT}")
         except Exception as e:
             print("⚠️", e)
-        time.sleep(30*60)
+        time.sleep(60*60) # Sleep for 1 hour
 
 if __name__ == "__main__":
     main_loop()

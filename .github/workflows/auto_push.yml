@@ -1,6 +1,6 @@
 # .github/workflows/auto_run.yml
 
-name: Auto‑Run Script
+name: Auto-push Script
 
 on:
   workflow_dispatch:
