@@ -1,0 +1,45 @@
+name: following my followers
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+  schedule:
+    - cron: '0 00 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    environment: AUTO_PUSH
+
+    env:
+      GITHUB_USERNAME: ${{ secrets.GITHUB_USERNAME }}
+      GITHUB_TOKEN: ${{ secrets.TOKEN }}
+      GITHUB_EMAIL:    ${{ secrets.GITHUB_EMAIL }}
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run following_my_followers.py with arguments
+        run: |
+          python following_my_followers.py -m "${GITHUB_USERNAME}" -t "${GITHUB_TOKEN}" -e "${GITHUB_EMAIL}" -o "${GITHUB_USERNAME}" -f "${GITHUB_USERNAME}" -d "my_followers.json" -r "README.md" -s "followers"
+
+      # Optional: Commit changes
+      # - name: Commit & Push
+      #   run: |
+      #     git config user.name "github-actions[bot]"
+      #     git config user.email "github-actions[bot]@users.noreply.github.com"
+      #     git add .
+      #     git diff --cached --quiet || ( git commit -m "Update following" && git push )

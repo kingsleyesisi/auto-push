@@ -44,7 +44,7 @@ jobs:
 
       - name: Generate README.md
         run: |
-          python create_readme.py
+          python update_readme.py
 
       - name: Commit & Push updates
         run: |
