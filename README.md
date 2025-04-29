@@ -1,8 +1,8 @@
 # Auto Push - make it all Green 
 
-# The Auto Push repository is designed to automate the process of updating a file content, following and unfollowing user in your github and pushing the changes directly to a GitHub repository. "         This project is written entirely in Python and leverages GitHub's API and Git commands to perform these operations. The repository is a great tool for developers, data analysts, or system administrators and for those who want's to keep a sterdy streaks and all green on their github contribution graph.
+The Auto Push repository is designed to automate the process of updating a file content, following and unfollowing user in your github and pushing the changes directly to a GitHub repository. "         This project is written entirely in Python and leverages GitHub's API and Git commands to perform these operations. The repository is a great tool for developers, data analysts, or system administrators and for those who want's to keep a sterdy streaks and all green on their github contribution graph.
 
-<h1>My Followers:</h1><br>
+# <h1>My Followers:</h1><br>
 <a href="https://github.com/gustavoneves"><img src="https://avatars.githubusercontent.com/u/497773?v=4" alt="gustavoneves" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/vinayakkankanwadi"><img src="https://avatars.githubusercontent.com/u/1323738?v=4" alt="vinayakkankanwadi" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/farshidbeheshti"><img src="https://avatars.githubusercontent.com/u/1665275?v=4" alt="farshidbeheshti" style="height:50px;width:50px;"/></a>
