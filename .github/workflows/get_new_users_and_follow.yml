@@ -43,6 +43,9 @@ jobs:
           echo "GITHUB_TOKEN=${GITHUB_TOKEN}"   >> .env
           echo "GITHUB_EMAIL=${GITHUB_EMAIL}"   >> .env
 
+      - name: Sleep before pushing
+        run: sleep 120
+
       - name: Get random users
         run: python get_random_users.py
 
@@ -50,28 +53,26 @@ jobs:
         run: |
           python following_my_followers.py -m "${GITHUB_USERNAME}" -t "${GITHUB_TOKEN}"
 
-      - name: Sleep before pushing
-        run: sleep 120
 
-      - name: Commit & Push
-        run: |
-          # 1. Ensure .env stays untracked
-          echo ".env" >> .gitignore
-          git reset HEAD .env || true
+      # - name: Commit & Push
+      #   run: |
+      #     # 1. Ensure .env stays untracked
+      #     echo ".env" >> .gitignore
+      #     git reset HEAD .env || true
 
-          # 2. Configure git author
-          git config user.name  "${GITHUB_USERNAME}"
-          git config user.email "${GITHUB_EMAIL}"
+      #     # 2. Configure git author
+      #     git config user.name  "${GITHUB_USERNAME}"
+      #     git config user.email "${GITHUB_EMAIL}"
 
-          # 3. Stage everything except .env
-          git add .
-          git reset .env
+      #     # 3. Stage everything except .env
+      #     git add .
+      #     git reset .env
 
-          # 4. Commit & push if changes exist
-          if ! git diff --cached --quiet; then
-            git commit -m "chore: update following list"
-            git pull --rebase origin main
-            git push
-          else
-            echo "No changes to commit."
-          fi
+      #     # 4. Commit & push if changes exist
+      #     if ! git diff --cached --quiet; then
+      #       git commit -m "chore: update following list"
+      #       git pull --rebase origin main
+      #       git push
+      #     else
+      #       echo "No changes to commit."
+      #     fi
