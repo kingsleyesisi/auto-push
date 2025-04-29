@@ -17,13 +17,18 @@ jobs:
     permissions:
       contents: write
 
+    # Pull in your repo-/env-scoped Variables (not secrets)
     env:
-      GITHUB_USERNAME: ${{ secrets.USERNAME }}
-      GITHUB_TOKEN: ${{ secrets.TOKEN }}
-      GITHUB_EMAIL:    ${{ secrets.EMAIL }}
+      GITHUB_USERNAME: ${{ vars.USERNAME }}
+      GITHUB_TOKEN:    ${{ vars.TOKEN }}
+      GITHUB_EMAIL:    ${{ vars.EMAIL }}
 
     steps:
       - uses: actions/checkout@v3
+        with:
+          # ensure write-permissions & use your token for pushes
+          persist-credentials: true
+          token: ${{ env.GITHUB_TOKEN }}
 
       - name: Set up Python 3.9
         uses: actions/setup-python@v4
@@ -41,18 +46,27 @@ jobs:
           echo "GITHUB_TOKEN=${GITHUB_TOKEN}"   >> .env
           echo "GITHUB_EMAIL=${GITHUB_EMAIL}"   >> .env
 
-
       - name: Generate README.md
         run: |
           python update_readme.py
 
       - name: Commit & Push updates
         run: |
-          git config user.name "${GITHUB_USERNAME}"
+          # 1. Make sure .env is ignored
+          echo ".env" >> .gitignore
+          git reset HEAD .env || true
+
+          # 2. Configure author
+          git config user.name  "${GITHUB_USERNAME}"
           git config user.email "${GITHUB_EMAIL}"
-          # only add your generated README, and Dataset.json
+
+          # 3. Stage only README.md & Dataset.json
           git add README.md Dataset.json
-          git diff --cached --quiet || ( \
-            git commit -m "Update follower list" && \
-            git push \
-          )
+
+          # 4. Commit & push if there are changes
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update follower list"
+            git push
+          else
+            echo "No changes to commit."
+          fi
