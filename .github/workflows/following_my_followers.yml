@@ -1,4 +1,5 @@
-name: following my followers
+name: follow my followers
+
 on:
   push:
     branches: [ main ]
@@ -15,15 +16,16 @@ jobs:
     environment: AUTO_PUSH
 
     env:
-      GITHUB_USERNAME: ${{ secrets.USERNAME }}
-      GITHUB_TOKEN:    ${{ secrets.TOKEN }}
-      GITHUB_EMAIL:    ${{ secrets.EMAIL }}
+      GITHUB_USERNAME: ${{ vars.USERNAME }}
+      GITHUB_TOKEN:    ${{ vars.TOKEN }}
+      GITHUB_EMAIL:    ${{ vars.EMAIL }}
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
         with:
-          # need write access to push
           persist-credentials: true
+          token: ${{ env.GITHUB_TOKEN }}
 
       - name: Set up Python 3.9
         uses: actions/setup-python@v4
@@ -35,31 +37,29 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run following_my_followers.py with arguments
+      - name: Run following_my_followers.py
         run: |
           python following_my_followers.py -m "${GITHUB_USERNAME}" -t "${GITHUB_TOKEN}"
 
       - name: Commit & Push updates
         run: |
-          # 1. Ensure .ENV is ignored
+          # 1. Ensure .ENV is ignored & unstaged
           echo ".ENV" >> .gitignore
+          git reset HEAD .ENV || true
 
-          # 2. Configure git author from env
+          # 2. Configure git author
           git config user.name  "${GITHUB_USERNAME}"
           git config user.email "${GITHUB_EMAIL}"
 
-          # 3. Stage everything, then un-stage .env
+          # 3. Stage everything except .ENV
           git add .
-          git reset HEAD .emv
+          git reset .ENV
 
-          # 4. Only commit if there is something new
+          # 4. Commit & push if there are changes
           if ! git diff --cached --quiet; then
             git commit -m "chore: update following list"
+            git pull --rebase origin main
             git push
           else
             echo "No changes to commit."
           fi
-        env:
-          # ensure push can authenticate
-          GIT_ASKPASS: /bin/true
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
