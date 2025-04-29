@@ -1,4 +1,5 @@
 name: Create Readme.md
+
 on:
   push:
     branches: [ main ]
@@ -17,16 +18,15 @@ jobs:
     permissions:
       contents: write
 
-    # Pull in your repo-/env-scoped Variables (not secrets)
     env:
       GITHUB_USERNAME: ${{ vars.USERNAME }}
       GITHUB_TOKEN:    ${{ vars.TOKEN }}
       GITHUB_EMAIL:    ${{ vars.EMAIL }}
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
         with:
-          # ensure write-permissions & use your token for pushes
           persist-credentials: true
           token: ${{ env.GITHUB_TOKEN }}
 
@@ -47,20 +47,19 @@ jobs:
           echo "GITHUB_EMAIL=${GITHUB_EMAIL}"   >> .env
 
       - name: Generate README.md
-        run: |
-          python update_readme.py
+        run: python update_readme.py
 
       - name: Commit & Push updates
         run: |
-          # 1. Make sure .env is ignored
+          # 1. Ensure .env is ignored & unstaged
           echo ".env" >> .gitignore
           git reset HEAD .env || true
 
-          # 2. Configure author
+          # 2. Configure git author
           git config user.name  "${GITHUB_USERNAME}"
           git config user.email "${GITHUB_EMAIL}"
 
-          # 3. Stage only README.md & Dataset.json
+          # 3. Stage only the generated files
           git add README.md Dataset.json
 
           # 4. Commit & push if there are changes
