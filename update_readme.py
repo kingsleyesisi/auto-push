@@ -72,9 +72,9 @@ followers_info = fetch_followers(USERNAME)
 now = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(f"""# Auto Push - make it all Green \n\n""")
-    f.write("""# The Auto Push repository is designed to automate the process of updating a file content, following and unfollowing user in your github and pushing the changes directly to a GitHub repository. " \
+    f.write("""The Auto Push repository is designed to automate the process of updating a file content, following and unfollowing user in your github and pushing the changes directly to a GitHub repository. " \
         This project is written entirely in Python and leverages GitHub's API and Git commands to perform these operations. The repository is a great tool for developers, data analysts, or system administrators and for those who want's to keep a sterdy streaks and all green on their github contribution graph.\n\n""")
-    f.write("<h1>My Followers:</h1><br>\n")
+    f.write("#<h1>My Followers:</h1><br>\n")
     for username, avatar in followers_info:
         f.write(
             f'<a href="https://github.com/{username}">'
