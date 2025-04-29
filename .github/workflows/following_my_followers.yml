@@ -44,8 +44,8 @@ jobs:
       - name: Commit & Push updates
         run: |
           # 1. Ensure .ENV is ignored & unstaged
-          echo ".ENV" >> .gitignore
-          git reset HEAD .ENV || true
+          echo ".env" >> .gitignore
+          git reset HEAD .env || true
 
           # 2. Configure git author
           git config user.name  "${GITHUB_USERNAME}"
@@ -53,7 +53,7 @@ jobs:
 
           # 3. Stage everything except .ENV
           git add .
-          git reset .ENV
+          git reset .env
 
           # 4. Commit & push if there are changes
           if ! git diff --cached --quiet; then
