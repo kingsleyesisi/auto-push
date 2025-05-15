@@ -8,6 +8,7 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/farshidbeheshti"><img src="https://avatars.githubusercontent.com/u/1665275?v=4" alt="farshidbeheshti" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/scalarwaves"><img src="https://avatars.githubusercontent.com/u/4212896?v=4" alt="scalarwaves" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/husreo"><img src="https://avatars.githubusercontent.com/u/5048402?v=4" alt="husreo" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/m-max-m"><img src="https://avatars.githubusercontent.com/u/5072006?v=4" alt="m-max-m" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ndolocr"><img src="https://avatars.githubusercontent.com/u/5158478?v=4" alt="ndolocr" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/mathemaphysics"><img src="https://avatars.githubusercontent.com/u/5934073?v=4" alt="mathemaphysics" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/aai210"><img src="https://avatars.githubusercontent.com/u/6145194?v=4" alt="aai210" style="height:50px;width:50px;"/></a>
@@ -275,7 +276,7 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/mufladesign"><img src="https://avatars.githubusercontent.com/u/204064411?v=4" alt="mufladesign" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/studiomufla"><img src="https://avatars.githubusercontent.com/u/204070255?v=4" alt="studiomufla" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/v0ic32"><img src="https://avatars.githubusercontent.com/u/204622249?v=4" alt="v0ic32" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/swuomi"><img src="https://avatars.githubusercontent.com/u/204786214?v=4" alt="swuomi" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/cannibaIs"><img src="https://avatars.githubusercontent.com/u/204786214?v=4" alt="cannibaIs" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/tsurugi3333"><img src="https://avatars.githubusercontent.com/u/204888448?v=4" alt="tsurugi3333" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/crypto0402"><img src="https://avatars.githubusercontent.com/u/205245931?v=4" alt="crypto0402" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Codesely"><img src="https://avatars.githubusercontent.com/u/205428159?v=4" alt="Codesely" style="height:50px;width:50px;"/></a>
@@ -289,4 +290,4 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/hexninjaT"><img src="https://avatars.githubusercontent.com/u/209206521?v=4" alt="hexninjaT" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/alejyoo"><img src="https://avatars.githubusercontent.com/u/209288425?v=4" alt="alejyoo" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/f2umfs"><img src="https://avatars.githubusercontent.com/u/210961272?v=4" alt="f2umfs" style="height:50px;width:50px;"/></a>
-<br><h4>Last update: 14/05/2025 03:13:38 (UTC)</h4><br>
+<br><h4>Last update: 15/05/2025 03:05:39 (UTC)</h4><br>
