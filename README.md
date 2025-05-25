@@ -272,7 +272,7 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/fortune-js"><img src="https://avatars.githubusercontent.com/u/199254198?v=4" alt="fortune-js" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/naomi-desy"><img src="https://avatars.githubusercontent.com/u/199410086?v=4" alt="naomi-desy" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/space-bio"><img src="https://avatars.githubusercontent.com/u/199499160?v=4" alt="space-bio" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/capeandbayllc"><img src="https://avatars.githubusercontent.com/u/199790883?v=4" alt="capeandbayllc" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/alinazvierieva"><img src="https://avatars.githubusercontent.com/u/199790883?v=4" alt="alinazvierieva" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Zupils"><img src="https://avatars.githubusercontent.com/u/200083429?v=4" alt="Zupils" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Crypt-Guard"><img src="https://avatars.githubusercontent.com/u/200695651?v=4" alt="Crypt-Guard" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Code-Crazier"><img src="https://avatars.githubusercontent.com/u/200988077?v=4" alt="Code-Crazier" style="height:50px;width:50px;"/></a>
@@ -295,4 +295,4 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/applewood101"><img src="https://avatars.githubusercontent.com/u/208835507?v=4" alt="applewood101" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/hexninjaT"><img src="https://avatars.githubusercontent.com/u/209206521?v=4" alt="hexninjaT" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/f2umfs"><img src="https://avatars.githubusercontent.com/u/210961272?v=4" alt="f2umfs" style="height:50px;width:50px;"/></a>
-<br><h4>Last update: 24/05/2025 03:09:48 (UTC)</h4><br>
+<br><h4>Last update: 25/05/2025 03:15:52 (UTC)</h4><br>
