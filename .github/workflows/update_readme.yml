@@ -64,7 +64,7 @@ jobs:
 
           # 4. Commit & push if there are changes
           if ! git diff --cached --quiet; then
-            git commit -m "chore: update follower list"
+            git commit -m "update follower list"
             git push
           else
             echo "No changes to commit."
