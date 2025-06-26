@@ -275,6 +275,7 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/goldgroup2025"><img src="https://avatars.githubusercontent.com/u/173559003?v=4" alt="goldgroup2025" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/JawherKl"><img src="https://avatars.githubusercontent.com/u/174592810?v=4" alt="JawherKl" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/officialmelvinp"><img src="https://avatars.githubusercontent.com/u/175115025?v=4" alt="officialmelvinp" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/nikhilpatidar01"><img src="https://avatars.githubusercontent.com/u/178185613?v=4" alt="nikhilpatidar01" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/mbahomaid"><img src="https://avatars.githubusercontent.com/u/178747862?v=4" alt="mbahomaid" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/gambling-addict"><img src="https://avatars.githubusercontent.com/u/179130175?v=4" alt="gambling-addict" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/RodricInTech"><img src="https://avatars.githubusercontent.com/u/179751396?v=4" alt="RodricInTech" style="height:50px;width:50px;"/></a>
@@ -311,14 +312,13 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/space-bio"><img src="https://avatars.githubusercontent.com/u/199499160?v=4" alt="space-bio" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Zupils"><img src="https://avatars.githubusercontent.com/u/200083429?v=4" alt="Zupils" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Crypt-Guard"><img src="https://avatars.githubusercontent.com/u/200695651?v=4" alt="Crypt-Guard" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/MohamedAhmed-SUT"><img src="https://avatars.githubusercontent.com/u/200943539?v=4" alt="MohamedAhmed-SUT" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Twizter01"><img src="https://avatars.githubusercontent.com/u/200956574?v=4" alt="Twizter01" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Code-Crazier"><img src="https://avatars.githubusercontent.com/u/200988077?v=4" alt="Code-Crazier" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/CossackDev777"><img src="https://avatars.githubusercontent.com/u/203025467?v=4" alt="CossackDev777" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/likhonsheikhofficial"><img src="https://avatars.githubusercontent.com/u/203375680?v=4" alt="likhonsheikhofficial" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/156afl"><img src="https://avatars.githubusercontent.com/u/204064411?v=4" alt="156afl" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/fluoospace"><img src="https://avatars.githubusercontent.com/u/204070255?v=4" alt="fluoospace" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/carnaI"><img src="https://avatars.githubusercontent.com/u/204786214?v=4" alt="carnaI" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/sIavic"><img src="https://avatars.githubusercontent.com/u/204786214?v=4" alt="sIavic" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/tsurugi3333"><img src="https://avatars.githubusercontent.com/u/204888448?v=4" alt="tsurugi3333" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/crypto0402"><img src="https://avatars.githubusercontent.com/u/205245931?v=4" alt="crypto0402" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Fayzullox-cyber"><img src="https://avatars.githubusercontent.com/u/205306585?v=4" alt="Fayzullox-cyber" style="height:50px;width:50px;"/></a>
@@ -348,4 +348,4 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/elek80s"><img src="https://avatars.githubusercontent.com/u/216082151?v=4" alt="elek80s" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/talent-guru"><img src="https://avatars.githubusercontent.com/u/217628887?v=4" alt="talent-guru" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ihuomablessed"><img src="https://avatars.githubusercontent.com/u/217674405?v=4" alt="ihuomablessed" style="height:50px;width:50px;"/></a>
-<br><h4>Last update: 25/06/2025 03:22:46 (UTC)</h4><br>
+<br><h4>Last update: 26/06/2025 03:13:56 (UTC)</h4><br>
