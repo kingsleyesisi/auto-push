@@ -58,7 +58,7 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/TopTrenDev"><img src="https://avatars.githubusercontent.com/u/55486112?v=4" alt="TopTrenDev" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/enrique-web"><img src="https://avatars.githubusercontent.com/u/55524309?v=4" alt="enrique-web" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/IROpany"><img src="https://avatars.githubusercontent.com/u/56658124?v=4" alt="IROpany" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/shawmdario"><img src="https://avatars.githubusercontent.com/u/56939149?v=4" alt="shawmdario" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/pswilker"><img src="https://avatars.githubusercontent.com/u/56939149?v=4" alt="pswilker" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/BEPb"><img src="https://avatars.githubusercontent.com/u/57312267?v=4" alt="BEPb" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/tm-0430"><img src="https://avatars.githubusercontent.com/u/57335230?v=4" alt="tm-0430" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/bocaletto-luca"><img src="https://avatars.githubusercontent.com/u/58043613?v=4" alt="bocaletto-luca" style="height:50px;width:50px;"/></a>
@@ -346,4 +346,4 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/elek80s"><img src="https://avatars.githubusercontent.com/u/216082151?v=4" alt="elek80s" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/talent-guru"><img src="https://avatars.githubusercontent.com/u/217628887?v=4" alt="talent-guru" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ihuomablessed"><img src="https://avatars.githubusercontent.com/u/217674405?v=4" alt="ihuomablessed" style="height:50px;width:50px;"/></a>
-<br><h4>Last update: 28/06/2025 03:16:47 (UTC)</h4><br>
+<br><h4>Last update: 29/06/2025 03:24:19 (UTC)</h4><br>
