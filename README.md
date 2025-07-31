@@ -312,7 +312,7 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/samueltuoyo15"><img src="https://avatars.githubusercontent.com/u/183222252?v=4" alt="samueltuoyo15" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/TheEagle-Benson"><img src="https://avatars.githubusercontent.com/u/184177566?v=4" alt="TheEagle-Benson" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/zyferlink"><img src="https://avatars.githubusercontent.com/u/184507786?v=4" alt="zyferlink" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/madhavgadge01"><img src="https://avatars.githubusercontent.com/u/185582816?v=4" alt="madhavgadge01" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/vsrupeshkumar"><img src="https://avatars.githubusercontent.com/u/185157510?v=4" alt="vsrupeshkumar" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/MdShawonForazi"><img src="https://avatars.githubusercontent.com/u/185961339?v=4" alt="MdShawonForazi" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Codeblaq0"><img src="https://avatars.githubusercontent.com/u/186629513?v=4" alt="Codeblaq0" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/destroy-boys"><img src="https://avatars.githubusercontent.com/u/187797187?v=4" alt="destroy-boys" style="height:50px;width:50px;"/></a>
@@ -330,7 +330,6 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/CodesByUmar"><img src="https://avatars.githubusercontent.com/u/193395601?v=4" alt="CodesByUmar" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/esa903"><img src="https://avatars.githubusercontent.com/u/193706648?v=4" alt="esa903" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/hiikohaai"><img src="https://avatars.githubusercontent.com/u/194071362?v=4" alt="hiikohaai" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/codezs17"><img src="https://avatars.githubusercontent.com/u/194403512?v=4" alt="codezs17" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/dakotamin"><img src="https://avatars.githubusercontent.com/u/194725863?v=4" alt="dakotamin" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/aburraspace"><img src="https://avatars.githubusercontent.com/u/196363280?v=4" alt="aburraspace" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/jamolovihelloworld"><img src="https://avatars.githubusercontent.com/u/196664308?v=4" alt="jamolovihelloworld" style="height:50px;width:50px;"/></a>
@@ -386,9 +385,8 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/elek80s"><img src="https://avatars.githubusercontent.com/u/216082151?v=4" alt="elek80s" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ihuomablessed"><img src="https://avatars.githubusercontent.com/u/217674405?v=4" alt="ihuomablessed" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/imdypha"><img src="https://avatars.githubusercontent.com/u/217967514?v=4" alt="imdypha" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/K-ANT0"><img src="https://avatars.githubusercontent.com/u/218254886?v=4" alt="K-ANT0" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/kingsleyesisi1"><img src="https://avatars.githubusercontent.com/u/219457747?v=4" alt="kingsleyesisi1" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/HOLAravel"><img src="https://avatars.githubusercontent.com/u/219487416?v=4" alt="HOLAravel" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ZEM-MOOK"><img src="https://avatars.githubusercontent.com/u/220235752?v=4" alt="ZEM-MOOK" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/S-raky"><img src="https://avatars.githubusercontent.com/u/220777032?v=4" alt="S-raky" style="height:50px;width:50px;"/></a>
-<br><h4>Last update: 30/07/2025 03:45:20 (UTC)</h4><br>
+<br><h4>Last update: 31/07/2025 01:25:52 (UTC)</h4><br>
