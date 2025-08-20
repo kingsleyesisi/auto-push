@@ -3,6 +3,7 @@
 The Auto Push repository is designed to automate the process of updating a file content, following and unfollowing user in your github and pushing the changes directly to a GitHub repository. "         This project is written entirely in Python and leverages GitHub's API and Git commands to perform these operations. The repository is a great tool for developers, data analysts, or system administrators and for those who want's to keep a sterdy streaks and all green on their github contribution graph.
 
 #<h1>My Followers:</h1><br>
+<a href="https://github.com/levonk"><img src="https://avatars.githubusercontent.com/u/277861?v=4" alt="levonk" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/gustavoneves"><img src="https://avatars.githubusercontent.com/u/497773?v=4" alt="gustavoneves" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/vinayakkankanwadi"><img src="https://avatars.githubusercontent.com/u/1323738?v=4" alt="vinayakkankanwadi" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/kenjinote"><img src="https://avatars.githubusercontent.com/u/2605401?v=4" alt="kenjinote" style="height:50px;width:50px;"/></a>
@@ -53,7 +54,6 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/sandibrrm"><img src="https://avatars.githubusercontent.com/u/43517564?v=4" alt="sandibrrm" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/bstordrup"><img src="https://avatars.githubusercontent.com/u/43523397?v=4" alt="bstordrup" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/OsamaAlmamri"><img src="https://avatars.githubusercontent.com/u/43526628?v=4" alt="OsamaAlmamri" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/AchrafReyani"><img src="https://avatars.githubusercontent.com/u/43996450?v=4" alt="AchrafReyani" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/NiniTurner"><img src="https://avatars.githubusercontent.com/u/44910620?v=4" alt="NiniTurner" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/nstarlike"><img src="https://avatars.githubusercontent.com/u/46280877?v=4" alt="nstarlike" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/KPMGE"><img src="https://avatars.githubusercontent.com/u/46900633?v=4" alt="KPMGE" style="height:50px;width:50px;"/></a>
@@ -292,6 +292,7 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/Ihsas01"><img src="https://avatars.githubusercontent.com/u/161559652?v=4" alt="Ihsas01" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/GrayMamoru"><img src="https://avatars.githubusercontent.com/u/161590789?v=4" alt="GrayMamoru" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/bluesky030511"><img src="https://avatars.githubusercontent.com/u/161650896?v=4" alt="bluesky030511" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/Yosefm17"><img src="https://avatars.githubusercontent.com/u/161704496?v=4" alt="Yosefm17" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/redtomato0129"><img src="https://avatars.githubusercontent.com/u/161733941?v=4" alt="redtomato0129" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/thelabmde"><img src="https://avatars.githubusercontent.com/u/161765219?v=4" alt="thelabmde" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/smartdev5050"><img src="https://avatars.githubusercontent.com/u/161879015?v=4" alt="smartdev5050" style="height:50px;width:50px;"/></a>
@@ -421,4 +422,4 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/uhsr"><img src="https://avatars.githubusercontent.com/u/220242888?v=4" alt="uhsr" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/S-raky"><img src="https://avatars.githubusercontent.com/u/220777032?v=4" alt="S-raky" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/akadevbarki76-collab"><img src="https://avatars.githubusercontent.com/u/224343502?v=4" alt="akadevbarki76-collab" style="height:50px;width:50px;"/></a>
-<br><h4>Last update: 19/08/2025 03:12:41 (UTC)</h4><br>
+<br><h4>Last update: 20/08/2025 03:04:08 (UTC)</h4><br>
