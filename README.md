@@ -149,7 +149,6 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/agathafr"><img src="https://avatars.githubusercontent.com/u/85461130?v=4" alt="agathafr" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/shahradhdev"><img src="https://avatars.githubusercontent.com/u/85620980?v=4" alt="shahradhdev" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/otsupom"><img src="https://avatars.githubusercontent.com/u/86154133?v=4" alt="otsupom" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/rizwansammo"><img src="https://avatars.githubusercontent.com/u/86232329?v=4" alt="rizwansammo" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/dario-gms"><img src="https://avatars.githubusercontent.com/u/86432208?v=4" alt="dario-gms" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Shamim-Al-Mamun"><img src="https://avatars.githubusercontent.com/u/86506636?v=4" alt="Shamim-Al-Mamun" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Ruhul-Quddus-Tamim"><img src="https://avatars.githubusercontent.com/u/86849949?v=4" alt="Ruhul-Quddus-Tamim" style="height:50px;width:50px;"/></a>
@@ -471,4 +470,4 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/bradthaniyel"><img src="https://avatars.githubusercontent.com/u/227646109?v=4" alt="bradthaniyel" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/sphinxzerd"><img src="https://avatars.githubusercontent.com/u/228416926?v=4" alt="sphinxzerd" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/aka76bm"><img src="https://avatars.githubusercontent.com/u/233129553?v=4" alt="aka76bm" style="height:50px;width:50px;"/></a>
-<br><h4>Last update: 27/09/2025 02:56:42 (UTC)</h4><br>
+<br><h4>Last update: 28/09/2025 03:03:40 (UTC)</h4><br>
