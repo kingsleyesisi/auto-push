@@ -42,7 +42,7 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/ramonshabo"><img src="https://avatars.githubusercontent.com/u/22187452?v=4" alt="ramonshabo" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/guevaraStian"><img src="https://avatars.githubusercontent.com/u/22348210?v=4" alt="guevaraStian" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/connebrink"><img src="https://avatars.githubusercontent.com/u/23358277?v=4" alt="connebrink" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/Nurulika"><img src="https://avatars.githubusercontent.com/u/23479074?v=4" alt="Nurulika" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/bravoech01"><img src="https://avatars.githubusercontent.com/u/23479074?v=4" alt="bravoech01" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/AaqibhafeezKhan"><img src="https://avatars.githubusercontent.com/u/25727015?v=4" alt="AaqibhafeezKhan" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/visualGravitySense"><img src="https://avatars.githubusercontent.com/u/26278690?v=4" alt="visualGravitySense" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/debuggingeveryday"><img src="https://avatars.githubusercontent.com/u/26407090?v=4" alt="debuggingeveryday" style="height:50px;width:50px;"/></a>
@@ -481,4 +481,4 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/sphinxzerd"><img src="https://avatars.githubusercontent.com/u/228416926?v=4" alt="sphinxzerd" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/heishoulord"><img src="https://avatars.githubusercontent.com/u/229731555?v=4" alt="heishoulord" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/aka76bm"><img src="https://avatars.githubusercontent.com/u/233129553?v=4" alt="aka76bm" style="height:50px;width:50px;"/></a>
-<br><h4>Last update: 14/10/2025 03:03:23 (UTC)</h4><br>
+<br><h4>Last update: 15/10/2025 03:00:21 (UTC)</h4><br>
