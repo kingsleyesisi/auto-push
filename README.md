@@ -151,7 +151,6 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/abe-101"><img src="https://avatars.githubusercontent.com/u/82916197?v=4" alt="abe-101" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Arrhenyx"><img src="https://avatars.githubusercontent.com/u/83244530?v=4" alt="Arrhenyx" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/joaostack"><img src="https://avatars.githubusercontent.com/u/83355344?v=4" alt="joaostack" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/bahattinyunus"><img src="https://avatars.githubusercontent.com/u/83650878?v=4" alt="bahattinyunus" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/prevyne"><img src="https://avatars.githubusercontent.com/u/83723788?v=4" alt="prevyne" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Jailtonfonseca"><img src="https://avatars.githubusercontent.com/u/84236747?v=4" alt="Jailtonfonseca" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/MaryemHadjWannes"><img src="https://avatars.githubusercontent.com/u/84646133?v=4" alt="MaryemHadjWannes" style="height:50px;width:50px;"/></a>
@@ -204,7 +203,6 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/i-kryvda"><img src="https://avatars.githubusercontent.com/u/95717307?v=4" alt="i-kryvda" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/george0st"><img src="https://avatars.githubusercontent.com/u/95856749?v=4" alt="george0st" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/sabuuuu"><img src="https://avatars.githubusercontent.com/u/96147666?v=4" alt="sabuuuu" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/nfterrax"><img src="https://avatars.githubusercontent.com/u/97410466?v=4" alt="nfterrax" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ludo53"><img src="https://avatars.githubusercontent.com/u/97764715?v=4" alt="ludo53" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Intellectro"><img src="https://avatars.githubusercontent.com/u/97872991?v=4" alt="Intellectro" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/IdyegeNathaniel"><img src="https://avatars.githubusercontent.com/u/98049103?v=4" alt="IdyegeNathaniel" style="height:50px;width:50px;"/></a>
@@ -486,7 +484,7 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/Raphasha27"><img src="https://avatars.githubusercontent.com/u/220842167?v=4" alt="Raphasha27" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/muichirox"><img src="https://avatars.githubusercontent.com/u/222104914?v=4" alt="muichirox" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/S-Rabbit81"><img src="https://avatars.githubusercontent.com/u/222885101?v=4" alt="S-Rabbit81" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/PiratesProgress"><img src="https://avatars.githubusercontent.com/u/223131939?v=4" alt="PiratesProgress" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/upsidedown-cross"><img src="https://avatars.githubusercontent.com/u/223131939?v=4" alt="upsidedown-cross" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/akadevbarki76-collab"><img src="https://avatars.githubusercontent.com/u/224343502?v=4" alt="akadevbarki76-collab" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/maskurahmedofficial"><img src="https://avatars.githubusercontent.com/u/224363310?v=4" alt="maskurahmedofficial" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/yogaarrd"><img src="https://avatars.githubusercontent.com/u/225699449?v=4" alt="yogaarrd" style="height:50px;width:50px;"/></a>
@@ -500,6 +498,7 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/d3rLord3"><img src="https://avatars.githubusercontent.com/u/229731555?v=4" alt="d3rLord3" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/HARUKA0-bb"><img src="https://avatars.githubusercontent.com/u/231001993?v=4" alt="HARUKA0-bb" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/aka76bm"><img src="https://avatars.githubusercontent.com/u/233129553?v=4" alt="aka76bm" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/zombietfk"><img src="https://avatars.githubusercontent.com/u/234549450?v=4" alt="zombietfk" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/yumiaura"><img src="https://avatars.githubusercontent.com/u/235065808?v=4" alt="yumiaura" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/nexthireconnect"><img src="https://avatars.githubusercontent.com/u/235825814?v=4" alt="nexthireconnect" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ankitaaryal"><img src="https://avatars.githubusercontent.com/u/235869631?v=4" alt="ankitaaryal" style="height:50px;width:50px;"/></a>
@@ -507,4 +506,4 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/dwingustav"><img src="https://avatars.githubusercontent.com/u/240384104?v=4" alt="dwingustav" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Oxdevonchain"><img src="https://avatars.githubusercontent.com/u/240488746?v=4" alt="Oxdevonchain" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/krea8torslab"><img src="https://avatars.githubusercontent.com/u/241011325?v=4" alt="krea8torslab" style="height:50px;width:50px;"/></a>
-<br><h4>Last update: 09/01/2026 03:49:57 (UTC)</h4><br>
+<br><h4>Last update: 10/01/2026 03:37:03 (UTC)</h4><br>
