@@ -13,10 +13,10 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/kenjinote"><img src="https://avatars.githubusercontent.com/u/2605401?v=4" alt="kenjinote" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/scalarwaves"><img src="https://avatars.githubusercontent.com/u/4212896?v=4" alt="scalarwaves" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/tech4xstar"><img src="https://avatars.githubusercontent.com/u/4213074?v=4" alt="tech4xstar" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/dappboris-dev"><img src="https://avatars.githubusercontent.com/u/5048402?v=4" alt="dappboris-dev" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/eurobeta2smyr"><img src="https://avatars.githubusercontent.com/u/5048402?v=4" alt="eurobeta2smyr" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/m-max-m"><img src="https://avatars.githubusercontent.com/u/5072006?v=4" alt="m-max-m" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ndolocr"><img src="https://avatars.githubusercontent.com/u/5158478?v=4" alt="ndolocr" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/thetester12345"><img src="https://avatars.githubusercontent.com/u/5164876?v=4" alt="thetester12345" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/jdrhnye"><img src="https://avatars.githubusercontent.com/u/5164876?v=4" alt="jdrhnye" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/0xautohub"><img src="https://avatars.githubusercontent.com/u/5579669?v=4" alt="0xautohub" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/unhappychoice"><img src="https://avatars.githubusercontent.com/u/5608948?v=4" alt="unhappychoice" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/mathemaphysics"><img src="https://avatars.githubusercontent.com/u/5934073?v=4" alt="mathemaphysics" style="height:50px;width:50px;"/></a>
@@ -239,7 +239,7 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/Leehomin11"><img src="https://avatars.githubusercontent.com/u/108207397?v=4" alt="Leehomin11" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/iamapuneet"><img src="https://avatars.githubusercontent.com/u/108384826?v=4" alt="iamapuneet" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/IseduardoRezende"><img src="https://avatars.githubusercontent.com/u/109261717?v=4" alt="IseduardoRezende" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/arvidkahlfnd"><img src="https://avatars.githubusercontent.com/u/109554692?v=4" alt="arvidkahlfnd" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/austinjgriffith"><img src="https://avatars.githubusercontent.com/u/109554692?v=4" alt="austinjgriffith" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/U1000000000000"><img src="https://avatars.githubusercontent.com/u/109623534?v=4" alt="U1000000000000" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/devimccallion"><img src="https://avatars.githubusercontent.com/u/109635993?v=4" alt="devimccallion" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/OmarAzizi"><img src="https://avatars.githubusercontent.com/u/110500643?v=4" alt="OmarAzizi" style="height:50px;width:50px;"/></a>
@@ -522,4 +522,4 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/Oxdevonchain"><img src="https://avatars.githubusercontent.com/u/240488746?v=4" alt="Oxdevonchain" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/krea8torslab"><img src="https://avatars.githubusercontent.com/u/241011325?v=4" alt="krea8torslab" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ephmo"><img src="https://avatars.githubusercontent.com/u/241746745?v=4" alt="ephmo" style="height:50px;width:50px;"/></a>
-<br><h4>Last update: 27/01/2026 03:59:41 (UTC)</h4><br>
+<br><h4>Last update: 28/01/2026 03:49:09 (UTC)</h4><br>
