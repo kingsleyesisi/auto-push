@@ -303,7 +303,6 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/elmars-hub"><img src="https://avatars.githubusercontent.com/u/121293732?v=4" alt="elmars-hub" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/OracleBrain"><img src="https://avatars.githubusercontent.com/u/121432807?v=4" alt="OracleBrain" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/zeniofia"><img src="https://avatars.githubusercontent.com/u/122245538?v=4" alt="zeniofia" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/amirallami-code"><img src="https://avatars.githubusercontent.com/u/123266762?v=4" alt="amirallami-code" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/JunaidHassan19"><img src="https://avatars.githubusercontent.com/u/123434178?v=4" alt="JunaidHassan19" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/K1rsN7"><img src="https://avatars.githubusercontent.com/u/123446875?v=4" alt="K1rsN7" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/noble-ch"><img src="https://avatars.githubusercontent.com/u/123499650?v=4" alt="noble-ch" style="height:50px;width:50px;"/></a>
@@ -586,4 +585,4 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/ephmo"><img src="https://avatars.githubusercontent.com/u/241746745?v=4" alt="ephmo" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/dracoloveforall-crypto"><img src="https://avatars.githubusercontent.com/u/251166196?v=4" alt="dracoloveforall-crypto" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/brunomadrigal80"><img src="https://avatars.githubusercontent.com/u/258112009?v=4" alt="brunomadrigal80" style="height:50px;width:50px;"/></a>
-<br><h4>Last update: 18/03/2026 18:47:46 (UTC)</h4><br>
+<br><h4>Last update: 18/03/2026 18:48:08 (UTC)</h4><br>
