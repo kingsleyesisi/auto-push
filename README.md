@@ -12,7 +12,7 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/kenjinote"><img src="https://avatars.githubusercontent.com/u/2605401?v=4" alt="kenjinote" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/scalarwaves"><img src="https://avatars.githubusercontent.com/u/4212896?v=4" alt="scalarwaves" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/tech4xstar"><img src="https://avatars.githubusercontent.com/u/4213074?v=4" alt="tech4xstar" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/umadevv"><img src="https://avatars.githubusercontent.com/u/5048402?v=4" alt="umadevv" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/0xsebasneuron"><img src="https://avatars.githubusercontent.com/u/5048402?v=4" alt="0xsebasneuron" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/m-max-m"><img src="https://avatars.githubusercontent.com/u/5072006?v=4" alt="m-max-m" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ndolocr"><img src="https://avatars.githubusercontent.com/u/5158478?v=4" alt="ndolocr" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Ihaytoo"><img src="https://avatars.githubusercontent.com/u/5164876?v=4" alt="Ihaytoo" style="height:50px;width:50px;"/></a>
@@ -585,4 +585,4 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/ephmo"><img src="https://avatars.githubusercontent.com/u/241746745?v=4" alt="ephmo" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/dracoloveforall-crypto"><img src="https://avatars.githubusercontent.com/u/251166196?v=4" alt="dracoloveforall-crypto" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/brunomadrigal80"><img src="https://avatars.githubusercontent.com/u/258112009?v=4" alt="brunomadrigal80" style="height:50px;width:50px;"/></a>
-<br><h4>Last update: 20/03/2026 14:57:28 (UTC)</h4><br>
+<br><h4>Last update: 20/03/2026 14:57:49 (UTC)</h4><br>
