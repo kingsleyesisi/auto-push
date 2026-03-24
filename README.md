@@ -3,6 +3,7 @@
 The Auto Push repository is designed to automate the process of updating a file content, following and unfollowing user in your github and pushing the changes directly to a GitHub repository. "         This project is written entirely in Python and leverages GitHub's API and Git commands to perform these operations. The repository is a great tool for developers, data analysts, or system administrators and for those who want's to keep a sterdy streaks and all green on their github contribution graph.
 
 #<h1>My Followers:</h1><br>
+[![Hypercommit](https://img.shields.io/badge/Hypercommit-DB2475)](https://hypercommit.com/auto-push)
 <a href="https://github.com/levonk"><img src="https://avatars.githubusercontent.com/u/277861?v=4" alt="levonk" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/gustavoneves"><img src="https://avatars.githubusercontent.com/u/497773?v=4" alt="gustavoneves" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/chatman-media"><img src="https://avatars.githubusercontent.com/u/883279?v=4" alt="chatman-media" style="height:50px;width:50px;"/></a>
