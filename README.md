@@ -3,7 +3,6 @@
 The Auto Push repository is designed to automate the process of updating a file content, following and unfollowing user in your github and pushing the changes directly to a GitHub repository. "         This project is written entirely in Python and leverages GitHub's API and Git commands to perform these operations. The repository is a great tool for developers, data analysts, or system administrators and for those who want's to keep a sterdy streaks and all green on their github contribution graph.
 
 #<h1>My Followers:</h1><br>
-[![Hypercommit](https://img.shields.io/badge/Hypercommit-DB2475)](https://hypercommit.com/auto-push)
 <a href="https://github.com/levonk"><img src="https://avatars.githubusercontent.com/u/277861?v=4" alt="levonk" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/gustavoneves"><img src="https://avatars.githubusercontent.com/u/497773?v=4" alt="gustavoneves" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/chatman-media"><img src="https://avatars.githubusercontent.com/u/883279?v=4" alt="chatman-media" style="height:50px;width:50px;"/></a>
@@ -590,4 +589,4 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/brunomadrigal80"><img src="https://avatars.githubusercontent.com/u/258112009?v=4" alt="brunomadrigal80" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/cyan0-3"><img src="https://avatars.githubusercontent.com/u/270160295?v=4" alt="cyan0-3" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/MJ-ulia"><img src="https://avatars.githubusercontent.com/u/270304306?v=4" alt="MJ-ulia" style="height:50px;width:50px;"/></a>
-<br><h4>Last update: 27/03/2026 05:45:53 (UTC)</h4><br>
+<br><h4>Last update: 27/03/2026 14:37:53 (UTC)</h4><br>
