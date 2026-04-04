@@ -330,6 +330,8 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/code-kknd123"><img src="https://avatars.githubusercontent.com/u/144765759?v=4" alt="code-kknd123" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/moexblade"><img src="https://avatars.githubusercontent.com/u/145154769?v=4" alt="moexblade" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/marichu-kt"><img src="https://avatars.githubusercontent.com/u/145447256?v=4" alt="marichu-kt" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/yukamanawa"><img src="https://avatars.githubusercontent.com/u/146503472?v=4" alt="yukamanawa" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/yutomiwana"><img src="https://avatars.githubusercontent.com/u/146503733?v=4" alt="yutomiwana" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/gaqx"><img src="https://avatars.githubusercontent.com/u/146537917?v=4" alt="gaqx" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/goShell3"><img src="https://avatars.githubusercontent.com/u/146694355?v=4" alt="goShell3" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/PeetlaMahesh123"><img src="https://avatars.githubusercontent.com/u/146963027?v=4" alt="PeetlaMahesh123" style="height:50px;width:50px;"/></a>
@@ -554,4 +556,4 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/SHIYUT0"><img src="https://avatars.githubusercontent.com/u/270160295?v=4" alt="SHIYUT0" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/MJ-ulia"><img src="https://avatars.githubusercontent.com/u/270304306?v=4" alt="MJ-ulia" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/LUCIEN-VALCREST"><img src="https://avatars.githubusercontent.com/u/270351252?v=4" alt="LUCIEN-VALCREST" style="height:50px;width:50px;"/></a>
-<br><h4>Last update: 04/04/2026 03:35:47 (UTC)</h4><br>
+<br><h4>Last update: 04/04/2026 03:36:08 (UTC)</h4><br>
