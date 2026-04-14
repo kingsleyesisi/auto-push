@@ -37,7 +37,7 @@ p1 = hexor(False, "hex")
 
 # RESPONE AUTH
 HEADERS = {"Authorization": "Basic " + b64encode(f"{username}:{token}".encode('utf-8')).decode('utf-8')}
-res = requests.get("https://api.github.com/user", headers=HEADERS)
+res = requests.get("https://api.github.com/user", headers=HEADERS, timeout=10.0)
 if res.status_code != 200:
     p1.c("Failure to Authenticate! Please check PersonalAccessToken and Username!", "#ff0000")
     exit(1)
