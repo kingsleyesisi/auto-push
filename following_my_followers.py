@@ -30,7 +30,7 @@ p1=hexor(False,"hex")
 
 # RESPONE AUTH
 HEADERS = {"Authorization": "Basic " + b64encode(str(args.username + ":" + args.token).encode('utf-8')).decode('utf-8')}
-res = requests.get("https://api.github.com/user", headers=HEADERS)
+res = requests.get("https://api.github.com/user", headers=HEADERS, timeout=10)
 if(res.status_code != 200):
     p1.c("Failure to Authenticate! Please check PersonalAccessToken and Username!","#ff0000")
     exit(1)
@@ -44,7 +44,7 @@ sesh.headers.update(HEADERS)
 # OUTPUT list of my followers:
 def followers(args):
     target = args.username
-    res = sesh.get("https://api.github.com/users/" + target + "/followers")
+    res = sesh.get("https://api.github.com/users/" + target + "/followers", timeout=10)
     linkArray = requests.utils.parse_header_links(res.headers['Link'].rstrip('>').replace('>,<', ',<'))
     url = linkArray[1]['url']
     lastPage = url.split('=')[-1]
@@ -52,7 +52,7 @@ def followers(args):
     print('Grabbing '+target+' Followers\nThis may take a while... there are '+str(lastPage)+' pages to go through.')
     x=0
     for i in range(1,int(lastPage)+1):
-        res = sesh.get('https://api.github.com/users/' + target + "/followers?page=" + str(i)).json()
+        res = sesh.get('https://api.github.com/users/' + target + "/followers?page=" + str(i), timeout=10).json()
         for user in res:
             followers.append(user['login'])
             #make_README(user['login'],user['avatar_url'])
@@ -62,7 +62,7 @@ def followers(args):
 # OUTPUT list of i'm following:
 def following(args):
     target = args.username
-    res = sesh.get("https://api.github.com/users/" + target + "/following")
+    res = sesh.get("https://api.github.com/users/" + target + "/following", timeout=10)
     linkArray = requests.utils.parse_header_links(res.headers['Link'].rstrip('>').replace('>,<', ',<'))
     url = linkArray[1]['url']
     lastPage = url.split('=')[-1]
@@ -70,7 +70,7 @@ def following(args):
     print('Grabbing '+target+' Following\nThis may take a while... there are '+str(lastPage)+' pages to go through.')
     x=0
     for i in range(1,int(lastPage)+1):
-        res = sesh.get('https://api.github.com/users/' + target + "/following?page=" + str(i)).json()
+        res = sesh.get('https://api.github.com/users/' + target + "/following?page=" + str(i), timeout=10).json()
         for user in res:
             following.append(user['login'])
     print("Total Following: "+str(len(following)))
@@ -81,7 +81,7 @@ def following_my_followers(followers_list,following_list):
     for i in range(len(followers_list)):
         if not followers_list[i] in following_list:
             time.sleep(2)
-            res = sesh.put('https://api.github.com/user/following/' + followers_list[i])
+            res = sesh.put('https://api.github.com/user/following/' + followers_list[i], timeout=10)
             if res.status_code != 204:
                 print("Rate-limited, please wait until it finish!")
                 time.sleep(60)
