@@ -10,10 +10,8 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/vinayakkankanwadi"><img src="https://avatars.githubusercontent.com/u/1323738?v=4" alt="vinayakkankanwadi" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/trinhminhtriet"><img src="https://avatars.githubusercontent.com/u/1650997?v=4" alt="trinhminhtriet" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/kenjinote"><img src="https://avatars.githubusercontent.com/u/2605401?v=4" alt="kenjinote" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/dariubs"><img src="https://avatars.githubusercontent.com/u/3078072?v=4" alt="dariubs" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/scalarwaves"><img src="https://avatars.githubusercontent.com/u/4212896?v=4" alt="scalarwaves" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/tech4xstar"><img src="https://avatars.githubusercontent.com/u/4213074?v=4" alt="tech4xstar" style="height:50px;width:50px;"/></a>
-<a href="https://github.com/0xsebasneuron"><img src="https://avatars.githubusercontent.com/u/5048402?v=4" alt="0xsebasneuron" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/nexora-www"><img src="https://avatars.githubusercontent.com/u/5072006?v=4" alt="nexora-www" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ndolocr"><img src="https://avatars.githubusercontent.com/u/5158478?v=4" alt="ndolocr" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Ihaytoo"><img src="https://avatars.githubusercontent.com/u/5164876?v=4" alt="Ihaytoo" style="height:50px;width:50px;"/></a>
@@ -555,4 +553,4 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/vibecodinguy"><img src="https://avatars.githubusercontent.com/u/258407493?v=4" alt="vibecodinguy" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/MJ-ulia"><img src="https://avatars.githubusercontent.com/u/270304306?v=4" alt="MJ-ulia" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/HEALTH-LEDGER"><img src="https://avatars.githubusercontent.com/u/270351252?v=4" alt="HEALTH-LEDGER" style="height:50px;width:50px;"/></a>
-<br><h4>Last update: 05/05/2026 08:16:14 (UTC)</h4><br>
+<br><h4>Last update: 06/05/2026 05:26:34 (UTC)</h4><br>
