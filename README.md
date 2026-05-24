@@ -530,6 +530,7 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/d3rLord3"><img src="https://avatars.githubusercontent.com/u/229731555?v=4" alt="d3rLord3" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/HARUKA0-bb"><img src="https://avatars.githubusercontent.com/u/231001993?v=4" alt="HARUKA0-bb" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/mrwhite4939"><img src="https://avatars.githubusercontent.com/u/231139847?v=4" alt="mrwhite4939" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/anshull-rajput"><img src="https://avatars.githubusercontent.com/u/232159160?v=4" alt="anshull-rajput" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/aka76bm"><img src="https://avatars.githubusercontent.com/u/233129553?v=4" alt="aka76bm" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/nykoco"><img src="https://avatars.githubusercontent.com/u/233224364?v=4" alt="nykoco" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/leonoffou"><img src="https://avatars.githubusercontent.com/u/234296670?v=4" alt="leonoffou" style="height:50px;width:50px;"/></a>
@@ -555,4 +556,4 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/MJ-ulia"><img src="https://avatars.githubusercontent.com/u/270304306?v=4" alt="MJ-ulia" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/HEALTH-LEDGER"><img src="https://avatars.githubusercontent.com/u/270351252?v=4" alt="HEALTH-LEDGER" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/justinT-uH"><img src="https://avatars.githubusercontent.com/u/279371976?v=4" alt="justinT-uH" style="height:50px;width:50px;"/></a>
-<br><h4>Last update: 24/05/2026 17:53:31 (UTC)</h4><br>
+<br><h4>Last update: 24/05/2026 17:53:48 (UTC)</h4><br>
