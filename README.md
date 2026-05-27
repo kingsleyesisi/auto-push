@@ -315,6 +315,7 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/AhmadTigress"><img src="https://avatars.githubusercontent.com/u/139285648?v=4" alt="AhmadTigress" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Maher-Elmair"><img src="https://avatars.githubusercontent.com/u/139779947?v=4" alt="Maher-Elmair" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/EduardoDosSantosFerreira"><img src="https://avatars.githubusercontent.com/u/139907452?v=4" alt="EduardoDosSantosFerreira" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/vijayshikhare"><img src="https://avatars.githubusercontent.com/u/140502237?v=4" alt="vijayshikhare" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/smmasudrana"><img src="https://avatars.githubusercontent.com/u/140880894?v=4" alt="smmasudrana" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/AmirPeyravan"><img src="https://avatars.githubusercontent.com/u/141130613?v=4" alt="AmirPeyravan" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/aertsimon90"><img src="https://avatars.githubusercontent.com/u/141768315?v=4" alt="aertsimon90" style="height:50px;width:50px;"/></a>
@@ -390,6 +391,7 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/raufurislam"><img src="https://avatars.githubusercontent.com/u/174232996?v=4" alt="raufurislam" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/JawherKl"><img src="https://avatars.githubusercontent.com/u/174592810?v=4" alt="JawherKl" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/officialmelvinp"><img src="https://avatars.githubusercontent.com/u/175115025?v=4" alt="officialmelvinp" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/pwnedroot"><img src="https://avatars.githubusercontent.com/u/176189052?v=4" alt="pwnedroot" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/god-s-only"><img src="https://avatars.githubusercontent.com/u/176394191?v=4" alt="god-s-only" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/thornebaker"><img src="https://avatars.githubusercontent.com/u/177169582?v=4" alt="thornebaker" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/venus0213"><img src="https://avatars.githubusercontent.com/u/177348229?v=4" alt="venus0213" style="height:50px;width:50px;"/></a>
@@ -537,6 +539,7 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/yumiaura"><img src="https://avatars.githubusercontent.com/u/235065808?v=4" alt="yumiaura" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Ashkan-P88"><img src="https://avatars.githubusercontent.com/u/235171767?v=4" alt="Ashkan-P88" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/nexthireconnect"><img src="https://avatars.githubusercontent.com/u/235825814?v=4" alt="nexthireconnect" style="height:50px;width:50px;"/></a>
+<a href="https://github.com/swe3tt0oth"><img src="https://avatars.githubusercontent.com/u/235845453?v=4" alt="swe3tt0oth" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/ranfrennn"><img src="https://avatars.githubusercontent.com/u/239465484?v=4" alt="ranfrennn" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/dwingustav"><img src="https://avatars.githubusercontent.com/u/240384104?v=4" alt="dwingustav" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/Oxdevonchain"><img src="https://avatars.githubusercontent.com/u/240488746?v=4" alt="Oxdevonchain" style="height:50px;width:50px;"/></a>
@@ -554,4 +557,4 @@ The Auto Push repository is designed to automate the process of updating a file 
 <a href="https://github.com/HEALTH-LEDGER"><img src="https://avatars.githubusercontent.com/u/270351252?v=4" alt="HEALTH-LEDGER" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/justinT-uH"><img src="https://avatars.githubusercontent.com/u/279371976?v=4" alt="justinT-uH" style="height:50px;width:50px;"/></a>
 <a href="https://github.com/saparatas"><img src="https://avatars.githubusercontent.com/u/283767058?v=4" alt="saparatas" style="height:50px;width:50px;"/></a>
-<br><h4>Last update: 26/05/2026 10:40:53 (UTC)</h4><br>
+<br><h4>Last update: 27/05/2026 06:16:54 (UTC)</h4><br>
